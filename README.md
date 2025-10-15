@@ -1,4 +1,4 @@
-# STIGS-REMED-VIA-Powershell In Construction Windows 2022
+# STIGS-REMED-VIA-Powershell In Construction Windows Server 2022
 
 This repository contains PowerShell scripts for automating the remediation of STIG (Security Technical Implementation Guide) findings on Windows 10 systems. The goal of this project is not only to ensure compliance with security best practices but also to **improve my proficiency in using PowerShell** for real-world system administration and security tasks. Each script corresponds to a specific STIG ID and applies the recommended configuration automatically.
 
