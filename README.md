@@ -6,13 +6,13 @@ This repository provides a growing collection of PowerShell scripts designed to 
 
 | Date       | STIG ID | GitHub | Description |
 |-----------|-----------------|------------|------------|
-| 11/8/2025 | WN11-AU-000500 | [Link]() | Implemented PowerShell remediation for STIG-ID: WN10-AU-000500 |
-| 11/8/2025 | WN11-AU-000505 | [Link]() | Implemented PowerShell remediation for STIG-ID: WN10-AU-000505 |
-| 11/8/2025 | WN11-AU-000510 | [Link]() | Remediation for STIG Application (STIG-ID: WN10-AU-000510) |
-| 11/8/2025 | WN11-CC-000038 | [Link]() | Remediation for STIG Application (STIG-ID: WN10-CC-000038) |
-| 11/8/2025 | WN11-CC-000039 | [Link]() | Remediation for STIG Application (STIG-ID: WN10-CC-000039) |
-| 11/8/2025 | WN11-CC-000040 | [Link]() | Remediation for STIG Application STIG ID: WN10-CC-000040 |
-| 11/8/2025 | WN11-CC-000055 | [Link]() | Remediation for STIG Application STIG ID: WN10-CC-000055 |
-| 11/8/2025 | WN11-CC-000044 | [Link]() | Remediation for STIG Application STIG ID: WN10-CC-000044 |
-| 11/8/2025 | WN11-CC-000066 | [Link]() | Remediation for STIG Application WN10-CC-000066 |
-| 11/8/2025 | WN11-00-000160 | [Link]() | PowerShell remediation for WN10-00-000160 |
+| 11/8/2025 | WN11-AU-000500 | [Link]() | In Development |
+| 11/8/2025 | WN11-AU-000505 | [Link]() | In Development |
+| 11/8/2025 | WN11-AU-000510 | [Link]() | In Development |
+| 11/8/2025 | WN11-CC-000038 | [Link]() | In Development |
+| 11/8/2025 | WN11-CC-000039 | [Link]() | In Development |
+| 11/8/2025 | WN11-CC-000040 | [Link]() | In Development |
+| 11/8/2025 | WN11-CC-000055 | [Link]() | In Development |
+| 11/8/2025 | WN11-CC-000044 | [Link]() | In Development |
+| 11/8/2025 | WN11-CC-000066 | [Link]() | In Development |
+| 11/8/2025 | WN11-00-000160 | [Link]() | In Development |
