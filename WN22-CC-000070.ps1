@@ -2,7 +2,6 @@
 SYNOPSIS: Disables insecure guest logons to SMB servers to prevent unauthenticated access.
 
 AUTHOR: Reginald D
-
 STIG ID: WN22-CC-000070
 SRG: SRG-OS-000480-GPOS-00227
 Severity: Medium (CAT II)
@@ -27,5 +26,6 @@ if((Get-ItemProperty -Path $Path -Name $Name).AllowInsecureGuestAuth -eq 0){
     Write-Host "WN22-CC-000070 non-compliant: remediation failed."
 
 }
+
 
 
