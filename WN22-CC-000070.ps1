@@ -1,6 +1,5 @@
 ﻿<#
-SYNOPSIS
-Disables insecure guest logons to SMB servers to prevent unauthenticated access.
+SYNOPSIS: Disables insecure guest logons to SMB servers to prevent unauthenticated access.
 
 AUTHOR: Reginald D
 
@@ -28,4 +27,5 @@ if((Get-ItemProperty -Path $Path -Name $Name).AllowInsecureGuestAuth -eq 0){
     Write-Host "WN22-CC-000070 non-compliant: remediation failed."
 
 }
+
 
