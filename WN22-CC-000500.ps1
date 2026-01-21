@@ -4,13 +4,9 @@ SYNOPSIS: Disables WinRM Basic authentication.
 AUTHOR: Reginald D
 
 STIG ID:WN22-CC-000500
-
 SRG: SRG-OS-000125-GPOS-00065
-
 SEVERITY: High (CAT I)
-
 CCI: CCI-000877
-
 VULNERABILITY ID: V-254381
 
 VULNERABILITY DISCUSSION
@@ -30,3 +26,4 @@ if ((Get-ItemProperty $Path).AllowBasic -eq 0) {
 } else {
     Write-Host "WinRM Basic authentication remediation failed."
 }
+
